@@ -10,12 +10,12 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 >รหัสนักศึกษา 610112418004
 
 ###Link LAB
-[LAB1](https://github.com/dong459/4134901-2-64/tree/master/610112418004/LAB1)
-[LAB2](https://github.com/dong459/4134901-2-64/tree/master/610112418004/LAB2)
-[LAB3](https://github.com/dong459/4134901-2-64/tree/master/610112418004/LAB3)
-[LAB6](https://github.com/dong459/4134901-2-64/tree/master/610112418004/LAB6)
-[LAB7](https://github.com/dong459/4134901-2-64/tree/master/610112418004/LAB7)
-[LAB8](https://github.com/dong459/4134901-2-64/tree/master/610112418004/LAB8)
+[LAB1](https://github.com/dong459/4134901-2-64/tree/master/LAB1)
+[LAB2](https://github.com/dong459/4134901-2-64/tree/master/LAB2)
+[LAB3](https://github.com/dong459/4134901-2-64/tree/master/LAB3)
+[LAB6](https://github.com/dong459/4134901-2-64/tree/master/LAB6)
+[LAB7](https://github.com/dong459/4134901-2-64/tree/master/LAB7)
+[LAB8](https://github.com/dong459/4134901-2-64/tree/master/LAB8)
 [FINALLAB](https://github.com/dong459/finallab.git)
 
 
