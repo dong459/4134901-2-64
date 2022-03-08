@@ -10,7 +10,7 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 >รหัสนักศึกษา 610112418004
 
 ###Link FINALLAB
-[FINALLAB](https://github.com/dong459/finallab.git)
+[https://github.com/dong459/finallab.git](https://github.com/dong459/finallab.git)
 
 
 #### RUN
